@@ -1,6 +1,7 @@
 # Core Java
 
 ## 📌 Core Java (OOP + Language Features)
+Java data type size and explanation.
 
 What is the difference between abstract class and interface in Java?
 
